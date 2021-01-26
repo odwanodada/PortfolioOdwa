@@ -355,8 +355,8 @@ a {
     -webkit-box-shadow: 0em -0.3rem 0em rgba(0, 0, 0, 0.1) inset;
     -moz-box-shadow: 0em -0.3rem 0em rgba(0, 0, 0, 0.1) inset;
     box-shadow: 0em -0.3rem 0em rgba(0, 0, 0, 0.1) inset;
-    margin-top: auto;
-    margin-bottom: auto;
+    margin-top: 0 auto;
+    margin-bottom: 0 auto;
 }
 
 .btn1:hover,
