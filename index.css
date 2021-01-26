@@ -66,7 +66,7 @@ a {
     cursor: pointer;
     display: inline-block;
 
-    padding: 28px 51px;
+    padding: 28px 20px;
     position: relative;
     user-select: none;
 }
@@ -468,5 +468,9 @@ input[type=submit]:hover {
     padding: 10px;
 
 }
+
+.footer i:hover {
+    background-color: gray;
+}    
 
 /* Footer end*/
